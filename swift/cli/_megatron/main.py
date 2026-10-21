@@ -4,6 +4,7 @@ from typing import Dict
 from ..main import cli_main as swift_cli_main
 
 ROUTE_MAPPING: Dict[str, str] = {
+    'pic': 'swift.cli._megatron.pic',
     'pt': 'swift.cli._megatron.pt',
     'sft': 'swift.cli._megatron.sft',
     'rlhf': 'swift.cli._megatron.rlhf',

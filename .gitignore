@@ -152,5 +152,8 @@ megatron_output/
 *.pth
 *.pt
 
+# Local PIC artifacts must not enter the source branch.
+/pic_runs/
+
 # ast template
 ast_index_file.py

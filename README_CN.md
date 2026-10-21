@@ -1,5 +1,7 @@
 # SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning)
 
+PIC 研究分支：安装、模块和能力边界见 [PIC 训练说明](PIC_README.md)。
+
 <p align="center">
     <br>
     <img src="asset/banner.png"/>

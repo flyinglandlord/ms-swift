@@ -1,5 +1,7 @@
 # SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning)
 
+PIC research branch: see [PIC training](PIC_README.md) for setup, modules and limitations.
+
 <p align="center">
     <br>
     <img src="asset/banner.png"/>

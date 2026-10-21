@@ -12,6 +12,7 @@ from swift.utils import get_logger
 logger = get_logger()
 
 ROUTE_MAPPING: Dict[str, str] = {
+    'pic': 'swift.cli.pic',
     'pt': 'swift.cli.pt',
     'sft': 'swift.cli.sft',
     'infer': 'swift.cli.infer',
